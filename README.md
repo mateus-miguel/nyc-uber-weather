@@ -98,6 +98,10 @@ Os dados brutos da Uber são convertidos em um `GeoDataFrame` usando coordenadas
 * Um novo **Spatial Join** associa cada corrida a um distrito
 * Uma nova coluna `borough` é adicionada ao dataset
 
+<p align="center">
+   <img src='images/nyc_uber_pickups_spatialjoin_boroughs_01-04.png' width='500'/>
+</p>
+
 ### 4️⃣ Exportação final
 
 * Colunas geoespaciais (`geometry`) e intermediárias são removidas
