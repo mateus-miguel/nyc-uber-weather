@@ -1,4 +1,4 @@
-# Uber Pickups & Clima em NYC (Abril/2014)
+# Corridas Über & Clima em NYC (Abril/2014)
 
 Este projeto realiza um **pipeline completo de ETL + análise exploratória (EDA)** usando dados de corridas da Uber em Nova York durante **abril de 2014**, integrando **dados geoespaciais** (SHP / GeoJSON) e **dados climáticos** para permitir análises temporais e espaciais mais ricas.
 
