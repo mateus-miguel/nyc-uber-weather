@@ -81,6 +81,10 @@ Os dados brutos da Uber são convertidos em um `GeoDataFrame` usando coordenadas
 * Corridas fora da fronteira oficial são descartadas
 * Aproximadamente **2,35%** do dataset original é removido
 
+<p>
+ <img src='images/nyc_uber_pickups_inside&outside_01-04.png'/>
+</p>
+
 ### 3️⃣ Associação aos distritos (boroughs)
 
 * O arquivo `nyc_boroughs.geojson` contém vários bairros menores
