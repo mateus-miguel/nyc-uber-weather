@@ -183,11 +183,11 @@ Os dados de corridas agregados no tempo podem ser combinados com `nyc_uber_weath
 
 ### Conclusões:
 
-* Foi feito uso de modelo estatísico SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) para correlacionar temperatura e precipitação com volume de corridas.
 * Por uma correlação de Pearson viu-se que a correlação do volume de corridas com a temperatura é positiva (aumento desta aumenta as corridas) e com a precipitação é negativa (aumento desta diminuiu as corridas).
+* Foi usado o modelo estatísico **SARIMAX** (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) para correlacionar temperatura e precipitação com volume de corridas.
 * Foi obtido um z-score de -0.216 para temperatura (perto de zero, efeito não significativo) e de -2.506 para precipitação (longe de zero, significante).
 * O p-value de 0.012 (1.2%) da precipitação indica que há pouca chance de seu efeito ser devido a outros fatores.
-* Por fim, o coeficiente -40.75 da precipitação indica que quando ela ocorre há decréscimo aproximado de 41 corridas/h fora do padrão usual das corridas. O clima então realmente afeta as corridas no geral.
+* Por fim, o coeficiente de -40.75 da precipitação indica que quando ela ocorre há decréscimo aproximado de 41 corridas/h fora do padrão usual das corridas. O clima então realmente afeta as corridas no geral.
 
 ---
 
