@@ -181,7 +181,7 @@ Os dados de corridas agregados no tempo podem ser combinados com `nyc_uber_weath
   * Temperatura
   * Precipitação
 
-# Conclusão:
+### Conclusões:
 
 * Foi feito uso de modelo estatísico SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) para correlacionar temperatura e precipitação com volume de corridas.
 * Por uma correlação de Pearson viu-se que a correlação do volume de corridas com a temperatura é positiva (aumento desta aumenta as corridas) e com a precipitação é negativa (aumento desta diminuiu as corridas).
