@@ -14,6 +14,10 @@ O foco principal é:
 
 O fluxo do projeto segue o diagrama apresentado:
 
+<p align='center'>
+ <img src='data/NYC Über Diagrama v2.png' width='500'/>
+</p>
+
 * **Entradas**:
 
   * `nyc_uber_raw.csv` — dados brutos de corridas Uber (data/hora, latitude, longitude, base)
@@ -35,10 +39,6 @@ O fluxo do projeto segue o diagrama apresentado:
 
   * EDA estatística
   * Análise temporal de corridas
-
-<p align='center'>
- <img src='data/NYC Über Diagrama v2.png' width='500'/>
-</p>
 
 ---
 
