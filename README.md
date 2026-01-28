@@ -15,7 +15,7 @@ O foco principal é:
 O fluxo do projeto segue o diagrama apresentado:
 
 <p align='center'>
- <img src='data/NYC Über Diagrama v2.png' width='500'/>
+ <img src='data/NYC Über Diagrama v2.png' width='400'/>
 </p>
 
 * **Entradas**:
