@@ -36,6 +36,10 @@ O fluxo do projeto segue o diagrama apresentado:
   * EDA estatística
   * Análise temporal de corridas
 
+<p align='center'>
+ <img src='data/NYC Über Diagrama v2.png' width='500'/>
+</p>
+
 ---
 
 ## 📦 Dados Utilizados
