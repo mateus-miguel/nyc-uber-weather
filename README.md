@@ -162,6 +162,13 @@ A partir de `nyc_uber_boroughs.csv`, são realizadas diversas análises:
   * Por base de veículo
 * Cálculo de métricas como média e desvio padrão
 
+### Conclusões
+
+* A contagem de corridas diárias oscila bastante pelo mês entre 10 e 30 mil corridas, aumentando bastante perto do fim do mês de Abril.
+* A base TLC de veículos `B02682` concentra a maior quantidade de corridas por quase todo o mês, sendo superada pela base `B02529` apenas próximo do fim do mês.
+* O distrito que mais concentra corridas é Manhattan (média diária perto de 15 mil corridas), o que também é visível pelo gráfico de mapeamento da cidade com as corridas espalhadas, seguido por Brooklyn (média perto de 2 mil corridas) e então Queens (média próxima de mil corridas).
+* Portanto, em questão de lucro e investimentos da empresa Über com relação às análises, a melhor solução é focar nas corridas feitas nas regiões de Manhattan e Brooklyn, assim como fortificar a parceira com as bases de veículos `B02682` e `B02529`.
+
 ---
 
 ## 📉 Séries Temporais
