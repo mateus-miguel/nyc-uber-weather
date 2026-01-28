@@ -82,7 +82,7 @@ Os dados brutos da Uber são convertidos em um `GeoDataFrame` usando coordenadas
 * Aproximadamente **2,35%** do dataset original é removido
 
 <p align="center">
- <img src='images/nyc_uber_pickups_inside&outside_01-04.png' width='500'/>
+ <img src='images/maps/nyc_uber_pickups_inside&outside_01-04.png' width='500'/>
 </p>
 
 ### 3️⃣ Associação aos distritos (boroughs)
@@ -99,7 +99,7 @@ Os dados brutos da Uber são convertidos em um `GeoDataFrame` usando coordenadas
 * Uma nova coluna `borough` é adicionada ao dataset
 
 <p align="center">
-   <img src='images/nyc_uber_pickups_spatialjoin_boroughs_01-04.png' width='500'/>
+   <img src='images/maps/nyc_uber_pickups_spatialjoin_boroughs_01-04.png' width='500'/>
 </p>
 
 ### 4️⃣ Exportação final
